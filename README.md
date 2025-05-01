@@ -1,3 +1,6 @@
 ##### Jeroen van de Graaf
 
 I am a cryptographer focusing on the theoretical and the applied aspects of cryptographic protocols. Two decades ago I worked on voting protocols, but since a couple of years I study blockchain, bitcoin, ethereum, layer2, zkSNARKs, zkVM, while anticipating how MultiParty Computation, Fully Homomorphic Encryption will have its impact on privacy-preserving AI. I have a Master's in mathematics from the Universiteit van Amsterdam (1985) and a PhD in Informatics from the Université de Montréal (1998). From August 2008 until February 2011 I was Professor at the Universidade Federal de Ouro Preto. Since March 2011 I moved to the Universidade Federal de Minas Gerais.
+
+
+Here is a [new idea](https://github.com/LUZERNLGR/whitepaper/blob/main/Luzern%20(1).pdf) I have been working on.  
